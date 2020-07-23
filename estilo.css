@@ -1,0 +1,33 @@
+/*
+    Autor: Guilherme Oliveira Casagrande
+    Link das fontes usadas:
+    Anonymous Pro: https://fonts.google.com/specimen/Anonymous+Pro?category=Monospace&sidebar.open#standard-styles
+*/
+
+
+body{
+    font-family: 'Anonymous Pro', monospace;
+    font-style: italic;
+    font-size: large;
+}
+
+img{
+    width: 50px;
+}
+
+div.info{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-block-start: 30px;
+}
+
+th, td, tr{
+    font-style: normal;
+    font-size: 17pt;
+    border: 1px inset rgba(0, 0, 0, 0.212);
+    padding: 5px;
+}
+
+td.info{
+    color : green;
+}
